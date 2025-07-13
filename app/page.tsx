@@ -601,7 +601,7 @@ export default function EmbriologiaSistemaNervoso() {
         <div className="container mx-auto px-4 py-8">
           <div className="text-center space-y-2">
             <p className="text-gray-600">Desenvolvido para estudantes de Engenharia Biomédica</p>
-            <p className="text-sm text-gray-500">Projeto de Embriologia - Fins Educacionais</p>
+            <p className="text-sm text-gray-500">Projeto Integrador I | Eng.Biomédica - Fins Educacionais</p>
           </div>
         </div>
       </footer>
